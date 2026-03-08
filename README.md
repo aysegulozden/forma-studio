@@ -146,12 +146,3 @@ npm run build
 
 ---
 
-## 📝 Notlar
-
-Bu proje [Claude](https://claude.ai) ile birlikte geliştirilmiştir.
-
----
-
-## 📄 Lisans
-
-MIT
